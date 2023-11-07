@@ -1,0 +1,35 @@
+#btn-add:active {
+    scale: 0.90;
+}
+
+#btn-add:hover {
+    opacity: 0.7;
+}
+
+#imag:active {
+    scale: 0.90;
+    opacity: 0.8;
+}
+
+#btn-add {
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    overflow: visible;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: large;
+}
+
+#nextDate {
+    border-color: black;
+    font-size: large;
+
+}
+
+#show {
+    width: 30px;
+    height: 30px;
+}
