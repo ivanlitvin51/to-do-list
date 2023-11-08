@@ -3,7 +3,7 @@ function prog() {
   let cnt = 0;
   let btnShow = document.getElementById("btn-show");
   let btnShowAll = document.getElementById("btn-show-all");
-  let btnShowDate = document.getElementById("btn-show-date");
+  //let btnShowDate = document.getElementById("btn-show-date");
 
   btnAdd.onclick = function () {
     cnt++;
