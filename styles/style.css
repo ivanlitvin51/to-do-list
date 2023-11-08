@@ -23,13 +23,32 @@ h1 {
     font-size: large;
 }
 
-#nextDate {
+#date {
     border-color: black;
     font-size: large;
-
+    font-family: Arial;
 }
 
-#show {
+#btn-show {
+    width: 30px;
+    height: 30px;
+}
+
+#nextDiv {
+    font-family: Arial;
+    font-size: large;
+}
+
+body {
+    margin-left: 40px;
+}
+
+#btn-show-all {
+    width: 30px;
+    height: 30px;
+}
+
+button {
     width: 30px;
     height: 30px;
 }
